@@ -8,5 +8,5 @@ and the Settings tab where you customize the password generation
 Nothing will be generated if you DONT put in a length and at least 1 type of character for the password
 
 # Preview
-![image](https://user-images.githubusercontent.com/102325682/224434654-a7af90a6-6c31-4105-bb93-9d0dbb754372.png)
+![image](https://user-images.githubusercontent.com/102325682/224791157-12c1326c-95ae-4da8-8e86-f4e9efbc6169.png)
 ![image](https://user-images.githubusercontent.com/102325682/224434804-703295ef-1036-416c-b7e1-f27522a49fb1.png)
