@@ -11,7 +11,7 @@ PyPass is a simple yet powerful password generator built with Python.
 3. Password Strength Indicator: The program provides a real-time strength indicator that categorizes the generated password as Weak, Fine, Good, or Strong based on its complexity and length.
 Visual Structure
 
-The is divided into two tabs: the Main tab and Settings tab.
+The application is divided into two tabs: the Main tab and Settings tab.
 
 Main Tab
 
